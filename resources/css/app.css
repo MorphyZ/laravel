@@ -18,3 +18,11 @@ body {
 h1 {
     font-size: 34px;
 }
+
+.header-main {
+    display: flex;
+    gap: 20px;
+}
+.logo {
+    width: 60px;
+}
